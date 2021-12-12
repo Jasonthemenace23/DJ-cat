@@ -13,6 +13,8 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
+heroku buildpacks:set heroku/java
+
 token = OTE5NDMwOTM1MjMxOTkxODc5.YbVsyQ.M-EVhdkc2Tq7lQcEIrRdHUTNPYw
 
 
